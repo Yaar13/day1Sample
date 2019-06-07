@@ -31,3 +31,23 @@ print("Sum is \(c)")
 
 print("Parag Garg")
 
+
+var str = "welcome to lambton college"
+if str.isEmpty
+{
+    print(str)
+    let s = str
+    str = str.lowercased()
+print(str, s)
+}
+    let len = str.count
+
+    print("length of String : \(len)")
+
+let S : Character
+S = "H"
+print(S)
+    for i in str
+{
+    print(i, separator: "", terminator: " ")
+print(str)
